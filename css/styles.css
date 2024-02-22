@@ -1049,7 +1049,8 @@ button {
     }
 
     .section.imagery .zero-slider {
-        margin: 40px auto -20px
+        margin: 40px auto -20px;
+        margin-bottom: 100px;
     }
 
     .section.cta .title {
