@@ -1028,7 +1028,8 @@ button {
     .screen-wrapper .screen {
         margin: 0 auto -40px;
         max-width: none;
-        width: 600px
+        width: 350px;
+        height: 400px;
     }
 
     .section {
